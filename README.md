@@ -7,7 +7,7 @@ Original Dataset is from [Kaggle]
 
 # **Questions will be asking**
 1.	Are there correlation and/or statistical differences between Global sales data and other regions like North America, Europe, Japan and Other counties? 
-2.	Is there a correlation between u ser score and critic score? 
+2.	Is there a correlation between user score and critic score? 
 3.	Do different regions prefer different genre games? 
 
 
